@@ -1,6 +1,7 @@
-### Hi there 👋 I'm Neethu Babu
+## <img src="https://c.tenor.com/3FFF1Q6-IT4AAAAC/wave-hi.gif" width="40px"> Hi there, I'm Neethu Babu
 
-### I'm a B.Tech ECE Graduate- 2021
+### I'm a B.Tech Electronics and Communication  Graduate (2021)
+### About
 
 <!--
 **neethukbj/neethukbj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
