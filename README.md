@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Neethu Babu
 
+### I'm a B.Tech ECE Graduate- 2021
+
 <!--
 **neethukbj/neethukbj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
